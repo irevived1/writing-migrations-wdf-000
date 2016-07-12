@@ -1,2 +1,3 @@
+*.swp
 db/school-development.db
 db/school-test.db
